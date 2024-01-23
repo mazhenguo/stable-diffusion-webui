@@ -29,6 +29,7 @@ scikit-image>=0.19
 timm
 tomesd
 torch
+torchvision
 torchdiffeq
 torchsde
 transformers==4.30.2
